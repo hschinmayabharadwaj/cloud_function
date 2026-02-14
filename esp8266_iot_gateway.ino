@@ -40,7 +40,7 @@
 
 // Firebase Firestore Configuration
 #define FIREBASE_PROJECT_ID "ledone-84d2d"
-#define FIREBASE_API_KEY "AIzaSyCf5Bd1Kz-oDv3DXT5_uIrT25SSe6ic6j8"
+#define FIREBASE_API_KEY "FIREBASE_API_KEY"
 
 // Device Configuration
 #define DEVICE_ID "esp8266_01"
