@@ -35,11 +35,11 @@
 // ============================================
 
 // WiFi Credentials
-#define WIFI_SSID "Galaxy S24 FE"
-#define WIFI_PASSWORD "Chiranthu23"
+#define WIFI_SSID "SSid"
+#define WIFI_PASSWORD "Password"
 
 // Firebase Firestore Configuration
-#define FIREBASE_PROJECT_ID "ledone-84d2d"
+#define FIREBASE_PROJECT_ID "project_no"
 #define FIREBASE_API_KEY "FIREBASE_API_KEY"
 
 // Device Configuration
